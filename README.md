@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a priority-based email summarization system developed using Natural Language Processing (NLP) techniques.  
-It allows users to upload an email dataset, specify priority keywords, and automatically ranks emails based on relevance using the TF-IDF algorithm.  
+It allows users to upload an email dataset, specify priority keywords, and automatically rank emails based on relevance using the TF-IDF algorithm.  
 The top emails are summarized using the TextRank method, and the summaries can be converted to speech in multiple languages.
 
 ---
@@ -35,4 +35,10 @@ The top emails are summarized using the TextRank method, and the summaries can b
 
 ---
 
-For a detailed explanation, full code, and demo results, refer to the Colab notebook included in this repository.
+## Colab Notebook
+You can directly open and run the project here:  
+[Open in Google Colab](https://colab.research.google.com/drive/1nO2LoQl7vz_e08pRJO2TUyIEzDfqWrd4?usp=sharing)
+
+---
+
+For detailed explanation, full code, and demo results, refer to the Colab notebook included in this repository.
